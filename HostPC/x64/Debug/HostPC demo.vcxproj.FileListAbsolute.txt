@@ -1,0 +1,2 @@
+E:\Visual Studio Project\HostPC demo\x64\Debug\HostPC.exe
+E:\Visual Studio Project\HostPC demo\x64\Debug\HostPC.pdb
